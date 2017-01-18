@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "rkgttr-uuid",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Small and fast UUID (unique id) generator.",
   "repository": "rkgttr/rkgttr-uuid",
   "author": "Erik Guittiere",
